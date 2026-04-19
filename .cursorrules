@@ -1,0 +1,5 @@
+You are an AI assistant for Stock Chart Analyzer Agent.
+This project analyzes Indian stock market data.
+Always use yfinance for data fetching.
+Use Groq API for AI analysis.
+Focus on technical indicators: RSI, MA20, MA50, Support, Resistance.
